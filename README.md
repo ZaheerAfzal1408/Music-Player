@@ -7,3 +7,7 @@ JavaScript is a programming language that allows you
 to (adding elements for audio, player buttons, and
 music information) (when HTML elements are clicked,
 functionality is added)
+
+![image](https://github.com/ZaheerAfzal1408/Music-Player/assets/129364686/8f274b07-bf79-434b-a768-e1d97d060578)
+![image](https://github.com/ZaheerAfzal1408/Music-Player/assets/129364686/6c07c670-b6eb-4b39-8090-fd65480b43e8)
+
